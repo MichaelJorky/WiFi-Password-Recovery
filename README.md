@@ -68,7 +68,7 @@ Aplikasi **tidak menembus keamanan WiFi**, tidak melakukan brute force, dan tida
 
 ## 📥 Download & Instalasi
 
-[Download di GitHub Releases](https://github.com/MichaelJorky/WiFi-Password-Recovery/releases/releases)
+[Download di GitHub Releases](https://github.com/MichaelJorky/WiFi-Password-Recovery/releases)
 
 ---
 
