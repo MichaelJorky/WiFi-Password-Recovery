@@ -26,7 +26,9 @@ Aplikasi ini **tidak melakukan hacking**, melainkan hanya membaca **profil WiFi 
 
 ## 📸 Tampilan Aplikasi
 
-*(Sisipkan gambar aplikasi seperti pada screenshot)*
+<div align="center">
+  <img src="./assets/Preview.jpg" alt="Preview Aplikasi">
+</div>
 
 ---
 
