@@ -59,7 +59,7 @@ Aplikasi **tidak menembus keamanan WiFi**, tidak melakukan brute force, dan tida
 ## 🛠️ Teknologi yang Digunakan
 
 * Bahasa Pemrograman: **C# (.NET Framework / .NET 6)**
-* UI Framework: **WinForms / WPF** (sesuaikan)
+* UI Framework: **WinForms / WPF**
 * Perintah sistem: **netsh**
 
 ---
