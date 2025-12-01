@@ -27,7 +27,7 @@ Aplikasi ini **tidak melakukan hacking**, melainkan hanya membaca **profil WiFi 
 ## 📸 Tampilan Aplikasi
 
 <div align="center">
-  <img src="./assets/Preview.jpg" alt="Preview Aplikasi">
+  <img src="./assets/WiFi%20Password%20Recovery.jpg" alt="Preview Aplikasi">
 </div>
 
 ---
